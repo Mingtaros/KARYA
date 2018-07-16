@@ -7,7 +7,7 @@ Language     : Python
 
 
 Motivation   : Saya sebagai mahasiswa Teknik Informatika ingin keluar dari zona nyaman saya (musik) dan ingin melakukan apa yang seharusnya saya lakukan di jurusan saya. Maka saya membuat program sederhana game kecil tentang "Guess the Spot".
-			  
+
 Code Style   : Standard
 
 ScreenShot   : https://lh3.googleusercontent.com/zjsYsYGhYrwPGs5CeoCRpG1oO5LwULGb-YoVvX4NZQzLpDC9UATKm0BgQD8L6tuEaZwW2Q=s85
@@ -19,9 +19,9 @@ How to play  :
 	
 	1. Pilih 1 untuk melawan BOT (random generator) atau 2 untuk bermain dengan orang ke2 (pada komputer yang sama)
 	
-	2. Input N sebagai ukuran papan grid NxN untuk "Guess the Spot" (N > 0) (N > 10 not recommended)
+	2. Input N sebagai ukuran papan grid NxN untuk "Guess the Point/Spot" (N > 0) (N > 10 is not recommended)
 	
-	3. Game langsung dimulai, input row dan column tempat apot yang ingin ditebak pada papan musuh
+	3. Game langsung dimulai, input row dan column tempat spot yang ingin ditebak pada papan musuh
 	
 	4. Game terus berjalan hingga salah satu dari kedua pihak menemukan "O" pada papan musuh 
 	
