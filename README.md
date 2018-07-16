@@ -1,5 +1,5 @@
-# KARYA
-Project Name : Tugas Karya untuk SPARTA HMIF 2017
+# Tugas Karya untuk SPARTA HMIF 2017
+Project Name : Tugas Karya Leonardo (16517182)(13517048)
 
 File Name    : ZONKgame.py
 
