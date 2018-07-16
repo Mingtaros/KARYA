@@ -1,3 +1,8 @@
+# Tugas Karya untuk SPARTA HMIF 2017
+# Nama        : Leonardo
+# NIM TPB     : 16517182
+# NIM Jurusan : 13517048
+# Deskripsi   : Game sederhana tentang "Guess the Point/Spot"
 from random import randint
 
 def rapiin(board):
