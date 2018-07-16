@@ -12,10 +12,11 @@ Code Style   : Standard
 
 ScreenShot   : https://lh3.googleusercontent.com/zjsYsYGhYrwPGs5CeoCRpG1oO5LwULGb-YoVvX4NZQzLpDC9UATKm0BgQD8L6tuEaZwW2Q=s85
 
-What You need: Pastikan dicompile di PC yang bisa mengcompile program-program Python
+
+What You Need : Pastikan dicompile di PC yang bisa mengcompile program-program Python
 
 
-How to play  :
+How to Play  :
 	
 	1. Pilih 1 untuk melawan BOT (random generator) atau 2 untuk bermain dengan orang ke2 (pada komputer yang sama)
 	
