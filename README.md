@@ -39,7 +39,7 @@ Additional Information :
 	
 Contribute  : The program is free to take for your own good
 
-Credits     : Program saya buat sendiri dengan 1-2 pertanyaan diajukan kepada teman saya Aditya P. (16517407)(13517013) dan M Aditya H. (16517292)(18217025)
+Credits     : Program saya buat sendiri dengan 1-2 pertanyaan diajukan kepada teman saya Aditya P. (16517407)(13517013)(https://github.com/AdityaPutraS) dan M Aditya H. (16517292)(18217025)(https://github.com/didithilmy)
 
 Licence     : none
 	
