@@ -10,7 +10,7 @@ Motivation   : Saya sebagai mahasiswa Teknik Informatika ingin keluar dari zona 
 
 Code Style   : Standard
 
-ScreenShot   : https://lh3.googleusercontent.com/zjsYsYGhYrwPGs5CeoCRpG1oO5LwULGb-YoVvX4NZQzLpDC9UATKm0BgQD8L6tuEaZwW2Q=s85
+ScreenShot   : Bisa dilihat di ScreenShot Folder
 
 
 What You Need : Pastikan dicompile di PC yang bisa mengcompile program-program Python
