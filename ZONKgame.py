@@ -15,7 +15,7 @@ def randrow(board):
 def randcol(board):
 	return randint(0, len(board)-1)
 
-#main Program
+#main Game
 def mbleh():
 	print ("WELCOME TO THE ZONK GAME" + "\n" + "\n")
 	print ("Choose Mode!" + "\n")
@@ -199,6 +199,7 @@ def mbleh():
 		#endwhile
 	#endif
 	re = input("Play Again? (Y for Yes and N for No) ")
+	re = re.upper()
 	if (re == 'Y'):
 		mbleh()
 	#endif
